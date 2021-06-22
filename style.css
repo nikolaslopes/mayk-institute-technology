@@ -16,8 +16,9 @@ img {
 
 /* CSS VARIABLES */
 :root {
-  --header-height: 4.5rem;
+  /* 16px -> 1rem for standart
   /* colors */
+  --header-height: 4.5rem;
   --hue: 390;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 45% 25%);
@@ -96,14 +97,11 @@ h1 {
   background-color: var(--body-color);
 }
 
-nav {
-  height: var(--header-height); /* root element */
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-  align-items: center;
+main {
+  margin-top: calc(var(--header-height) + 2rem);
 }
 
+/* LOGO */
 .logo {
   font: 700 1.31rem 'Poppins', sans-serif;
   color: var(--title-color);
@@ -113,8 +111,13 @@ nav {
   color: var(--base-color);
 }
 
-main {
-  margin-top: var(--header-height);
+/* NAVIGATION */
+nav {
+  height: var(--header-height); /* root element */
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
 }
 
 /* HOME */
