@@ -35,6 +35,10 @@ img {
 }
 
 /* BASE */
+html {
+  scroll-behavior: smooth; /* comando delicia pra rolagem */
+}
+
 body {
   font: 400 1rem 'DM Sans', sans-serif;
   color: var(--text-color);
