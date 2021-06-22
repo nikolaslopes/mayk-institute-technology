@@ -182,6 +182,12 @@ nav ul li a:hover::after {
 nav .menu {
   opacity: 0;
   visibility: hidden;
+  top: -20rem;
+  transition: 0.2s;
+}
+
+nav .menu ul {
+  display: none;
 }
 
 /* SHOW MENU */
@@ -197,10 +203,13 @@ nav.show .menu {
   position: fixed;
   top: 0;
   left: 0;
-}
-nav.show .menu {
+
   display: grid;
   place-content: center;
+}
+
+nav.show .menu ul {
+  display: grid;
 }
 
 nav.show ul.grid {
