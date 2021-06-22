@@ -114,6 +114,14 @@ body {
   background-color: var(--body-color);
 }
 
+.section header {
+  margin-bottom: 4rem;
+}
+
+.section header strong {
+  color: var(--base-color);
+}
+
 main {
   margin-top: calc(var(--header-height) + 2rem);
 }
