@@ -344,7 +344,6 @@ nav.show div.icon-close {
 }
 
 /* SERVICES */
-
 .cards.grid {
   gap: 1.5rem;
 }
@@ -370,9 +369,19 @@ nav.show div.icon-close {
 }
 
 /* TESTIMONIALS */
-
 #testimonials {
   background: white;
+}
+
+#testimonials .container {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#testimonials header {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-bottom: 0;
 }
 
 #testimonials blockquote {
