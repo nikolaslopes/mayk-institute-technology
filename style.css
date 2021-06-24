@@ -481,3 +481,8 @@ footer .brand p {
   color: var(--text-color-light);
   margin-bottom: 0.75rem;
 }
+
+footer i {
+  font-size: 1.5rem;
+  color: var(--text-color-light);
+}
