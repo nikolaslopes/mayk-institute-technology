@@ -476,3 +476,8 @@ footer .logo {
   display: inline-block;
   margin-bottom: 1.5rem;
 }
+
+footer .brand p {
+  color: var(--text-color-light);
+  margin-bottom: 0.75rem;
+}
