@@ -486,3 +486,7 @@ footer i {
   font-size: 1.5rem;
   color: var(--text-color-light);
 }
+
+footer .social a {
+  margin-right: 2rem;
+}
