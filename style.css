@@ -489,6 +489,12 @@ footer i {
 
 footer .social a {
   margin-right: 2rem;
+  transition: 0.3;
+  display: inline-block;
+}
+
+footer .social a:hover {
+  transform: translateY(-3px);
 }
 
 /* back-to-top */
