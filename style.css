@@ -471,3 +471,8 @@ nav.show div.icon-close {
 footer {
   background: var(--base-color);
 }
+
+footer .logo {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+}
