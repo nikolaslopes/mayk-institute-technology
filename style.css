@@ -23,7 +23,7 @@ img {
   /* 16px -> 1rem for standart
   /* colors */
   --header-height: 4.5rem;
-  --hue: 159;
+  --hue: 256;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 45% 25%);
   --base-color-second: hsl(var(--hue) 65% 88%);
@@ -154,6 +154,10 @@ main {
 
 .logo span {
   color: var(--base-color);
+}
+
+.logo-alt span {
+  color: aliceblue;
 }
 
 /* NAVIGATION */
@@ -461,4 +465,9 @@ nav.show div.icon-close {
 
 #contact ul li i {
   color: var(--base-color);
+}
+
+/* FOOTER */
+footer {
+  background: var(--base-color);
 }
