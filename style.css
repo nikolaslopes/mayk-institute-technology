@@ -577,6 +577,7 @@ footer .social a:hover {
     display: none;
   }
 
+  /* LAYOUT */
   main {
     margin-top: var(--header-height);
   }
@@ -596,6 +597,12 @@ footer .social a:hover {
     order: 0;
     max-width: 24rem;
     text-align: left;
+  }
+
+  /* ABOUT */
+  #about .container {
+    grid-auto-flow: column;
+    margin: 0 auto;
   }
 }
 /* large devices: 1023 > */
