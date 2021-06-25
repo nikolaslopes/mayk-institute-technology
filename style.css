@@ -549,6 +549,10 @@ footer .social a:hover {
     padding: 10rem 0;
   }
 
+  .button {
+    height: 3.125rem;
+  }
+
   nav .menu {
     opacity: 1;
     visibility: visible;
@@ -573,11 +577,15 @@ footer .social a:hover {
     display: none;
   }
 
-  /* HOME */
+  main {
+    margin-top: var(--header-height);
+  }
 
+  /* HOME */
   #home .container {
     grid-auto-flow: column;
     justify-content: space-between;
+    margin: 0 auto;
   }
 
   #home .image {
@@ -586,10 +594,8 @@ footer .social a:hover {
 
   #home .text {
     order: 0;
-  }
-
-  main {
-    margin-top: var(--header-height);
+    max-width: 24rem;
+    text-align: left;
   }
 }
 /* large devices: 1023 > */
