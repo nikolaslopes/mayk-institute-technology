@@ -558,6 +558,10 @@ footer .social a:hover {
     font: 400 1rem var(--body-font);
   }
 
+  nav .icon-menu {
+    display: none;
+  }
+
   main {
     margin-top: var(--header-height);
   }
