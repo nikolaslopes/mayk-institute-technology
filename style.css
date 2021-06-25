@@ -23,7 +23,7 @@ img {
   /* 16px -> 1rem for standart
   /* colors */
   --header-height: 4.5rem;
-  --hue: 167;
+  --hue: 256;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 45% 25%);
   --base-color-second: hsl(var(--hue) 65% 88%);
