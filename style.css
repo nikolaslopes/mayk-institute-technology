@@ -417,6 +417,13 @@ nav.show div.icon-close {
   color: var(--base-color);
 }
 
+.about-p span {
+  font: 700 1.5rem serif;
+
+  left: -1.875rem;
+  color: var(--base-color);
+}
+
 #testimonials cite {
   display: flex;
   align-items: center;
