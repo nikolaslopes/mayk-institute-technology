@@ -1,17 +1,16 @@
 @font-face {
   font-family: 'icomoon';
-  src: url('fonts/icomoon.eot?6pyra6');
-  src: url('fonts/icomoon.eot?6pyra6#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?6pyra6') format('truetype'),
-    url('fonts/icomoon.woff?6pyra6') format('woff'),
-    url('fonts/icomoon.svg?6pyra6#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?pebyy7');
+  src:  url('fonts/icomoon.eot?pebyy7#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?pebyy7') format('truetype'),
+    url('fonts/icomoon.woff?pebyy7') format('woff'),
+    url('fonts/icomoon.svg?pebyy7#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^='icon-'],
-[class*=' icon-'] {
+[class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: never;
@@ -26,42 +25,85 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-discord:before {
+  content: "\e900";
+  color: #7289da;
+}
+.icon-monitor:before {
+  content: "\e901";
+}
+.icon-twitch:before {
+  content: "\e915";
+}
+.icon-twitter:before {
+  content: "\e914";
+}
+.icon-github:before {
+  content: "\e902";
+}
+.icon-linkedin:before {
+  content: "\e903";
+}
+.icon-embed:before {
+  content: "\e904";
+}
+.icon-code1:before {
+  content: "\e904";
+}
+.icon-html:before {
+  content: "\e904";
+}
+.icon-xml:before {
+  content: "\e904";
+}
+.icon-code:before {
+  content: "\e905";
+}
+.icon-genius:before {
+  content: "\e906";
+}
+.icon-atom:before {
+  content: "\e906";
+}
+.icon-nuclear:before {
+  content: "\e906";
+}
 .icon-arrow-up:before {
-  content: '\e90c';
+  content: "\e90c";
 }
 .icon-phone:before {
-  content: '\e900';
+  content: "\e907";
 }
 .icon-close:before {
-  content: '\e901';
+  content: "\e908";
 }
 .icon-cosmetic:before {
-  content: '\e902';
+  content: "\e909";
 }
 .icon-facebook:before {
-  content: '\e903';
+  content: "\e90a";
 }
 .icon-instagram:before {
-  content: '\e904';
+  content: "\e90b";
 }
 .icon-mail:before {
-  content: '\e905';
+  content: "\e90d";
 }
 .icon-map-pin:before {
-  content: '\e906';
+  content: "\e90e";
 }
 .icon-menu:before {
-  content: '\e907';
+  content: "\e90f";
 }
 .icon-trim:before {
-  content: '\e908';
+  content: "\e910";
 }
 .icon-whatsapp:before {
-  content: '\e909';
+  content: "\e911";
 }
 .icon-woman-hair:before {
-  content: '\e90a';
+  content: "\e912";
 }
 .icon-youtube:before {
-  content: '\e90b';
+  content: "\e913";
 }
