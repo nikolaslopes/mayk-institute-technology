@@ -536,52 +536,6 @@ footer .social a:hover {
   transform: translateY(0);
 }
 
-/* NEWSLETTER */
-.newsletter p {
-  margin-bottom: 1rem;
-  font-size: var(--body-font);
-  color: var(--text-color-light);
-}
-input {
-  width: 100%;
-  border-radius: 2.5rem;
-  margin-top: 0.5rem;
-
-  background-color: var(--text-color-light);
-  color: 700 #2d3436;
-  height: 3rem;
-  display: inline-flex;
-  align-items: center;
-  padding: 0 2rem;
-  border-radius: 0.25rem;
-  font: 500 1rem var(--body-font);
-  transition: background 0.3s;
-}
-
-input:hover {
-  background: #cad3c8;
-}
-
-.submit {
-  max-width: 50%;
-  border-radius: 3.5rem;
-  margin-top: 0.5rem;
-
-  background-color: var(--text-color-light);
-  color: #2d3436;
-  height: 2.3rem;
-  display: inline-flex;
-  align-items: center;
-  padding: 0 2rem;
-  border-radius: 0.3rem;
-  font: 700 1.1rem var(--body-font);
-  transition: background 0.3s;
-
-  justify-content: space-around;
-
-  cursor: pointer;
-}
-
 /* MEDIA QUERIES */
 /* EXTRA LARGE DEVICES: 1200 > */
 @media (min-width: 1200px) {
@@ -701,6 +655,7 @@ input:hover {
     font-size: 2.25rem;
   }
 }
+
 /* large devices: 1023 > */
 /* large devices: 992 > */
 
