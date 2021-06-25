@@ -558,6 +558,11 @@ footer .social a:hover {
     font: 400 1rem var(--body-font);
   }
 
+  #header.scroll nav li a.title {
+    color: aliceblue;
+    transition: 0.2s;
+  }
+
   nav .icon-menu {
     display: none;
   }
