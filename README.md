@@ -31,13 +31,27 @@ No decorrer da semana eu conheci o [Mayk](https://github.com/maykbrito) e fiquei
 
 Por esse motivo resolvi fazer o tema do projeto baseado nele. Em uma live do Mayke, ele fez uma brincadeira sobre as estatísticas do MIT. Afinal, o que é MIT? Segundo o ilustre Mayke, é o MAYKE INSTITUTE OF TECHNOLOGY. Eu achei isso o máximo e minha ideia surgiu em cima dessa brincadeira.
 
-Com algumas mudanças consegui fazer o que eu queria, e aqui está o resultado final 	:fast_forward: [Final Project](https://nikolaslopes.github.io/mayk-institute-technology/)
+Com algumas mudanças, consegui fazer o que eu queria, e aqui está o resultado final 	:fast_forward: [Final Project](https://nikolaslopes.github.io/mayk-institute-technology/)
 
-<br><br>
-<div>
-  <h2>	:partying_face::rocket:Obrigado a todos Rocketseat:rocket::partying_face:<h2>
-</div>
+<br> 
 
+<h2>:partying_face::rocket:Obrigado a todos da <spam>Rocketseat</spam>:rocket::partying_face:</h2>
 
+<br>
+    
+# 🚀 Techs
+- HTML
+- CSS
+- Javascript
+- Swiper API
+- Scroll Reveal API
+- Icon Moon Generator
+    
+ <br>
+   
+# 👨🏻‍💻 Author
+
+- GitHub: [nikolaslopes](https://github.com/nikolaslopes) :octocat:
+- LinkedIn: [nikolas-lopes](https://www.linkedin.com/in/nikolas-lopes-b06524209/) :shipit:
 
 
