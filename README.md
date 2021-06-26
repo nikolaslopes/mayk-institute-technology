@@ -29,9 +29,14 @@ O projeto que seria feito ao longo do evento foi mostrado logo na primeira aula.
 
 No decorrer da semana eu conheci o [Mayk](https://github.com/maykbrito) e fiquei super fã do cara. Além de ser um baita instrutor, ele também é incrível como pessoa, sempre ajudando no que ele conseguir e lhe reconfortando com palavras que te fazem seguir em frente sem medo.
 
-Por esse motivo resolvi fazer o tema do projeto baseado nele. Em uma live do [Mayke](https://www.twitch.tv/maykbrito), ele fez uma brincadeira sobre as estatísticas do MIT. Afinal, o que é MIT? Segundo o ilustre Mayke, é o MAYKE INSTITUTE OF TECHNOLOGY. Eu achei isso o máximo e minha ideia surgiu em cima dessa brincadeira.
+Por esse motivo resolvi fazer o tema do projeto baseado nele. Em uma live do Mayke, ele fez uma brincadeira sobre as estatísticas do MIT. Afinal, o que é MIT? Segundo o ilustre Mayke, é o MAYKE INSTITUTE OF TECHNOLOGY. Eu achei isso o máximo e minha ideia surgiu em cima dessa brincadeira.
 
 Com algumas mudanças consegui fazer o que eu queria, e aqui está o resultado final 	:fast_forward: [Final Project](https://nikolaslopes.github.io/mayk-institute-technology/)
+
+<br><br>
+<div>
+  <h2>	:partying_face::rocket:Obrigado a todos Rocketseat:rocket::partying_face:<h2>
+</div>
 
 
 
