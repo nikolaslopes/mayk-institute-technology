@@ -27,7 +27,7 @@ O projeto que seria feito ao longo do evento foi mostrado logo na primeira aula.
   <h2>Sobre a minha versão do projeto :notebook_with_decorative_cover:</h2>
 </div>
 
-No decorrer da semana eu conheci o [Mayk](https://github.com/maykbrito) e fiquei super fã do cara. Além de ser um baita instrutor, ele também é incrível como pessoa, sempre ajudando no que ele conseguir e lhe reconfortando com palavras que te fazem seguir em frente sem medo.
+No decorrer da semana eu conheci o [Mayk](https://github.com/maykbrito) e fiquei super fã do cara. Além de ser um baita instrutor, ele também é incrível como pessoa, ele está sempre ajudando no que puder e lhe reconfortando com palavras que te fazem seguir em frente sem medo.
 
 Por esse motivo resolvi fazer o tema do projeto baseado nele. Em uma live do Mayke, ele fez uma brincadeira sobre as estatísticas do MIT. Afinal, o que é MIT? Segundo o ilustre Mayke, é o MAYKE INSTITUTE OF TECHNOLOGY. Eu achei isso o máximo e minha ideia surgiu em cima dessa brincadeira.
 
