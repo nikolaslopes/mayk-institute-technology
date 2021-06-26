@@ -31,6 +31,7 @@ No decorrer da semana eu conheci o [Mayk](https://github.com/maykbrito) e fiquei
 
 Por esse motivo resolvi fazer o tema do projeto baseado nele. Em uma live do [Mayke](https://www.twitch.tv/maykbrito), ele fez uma brincadeira sobre as estatísticas do MIT. Afinal, o que é MIT? Segundo o ilustre Mayke, é o MAYKE INSTITUTE OF TECHNOLOGY. Eu achei isso o máximo e minha ideia surgiu em cima dessa brincadeira.
 
+Com algumas mudanças consegui fazer o que eu queria, e aqui está o resultado final 	:fast_forward: [Final Project](https://nikolaslopes.github.io/mayk-institute-technology/)
 
 
 
